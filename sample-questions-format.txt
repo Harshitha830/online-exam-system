@@ -1,0 +1,52 @@
+This file shows the format to follow when creating a Word (.docx) file for uploading questions.
+Copy this format into a Word document and save as .docx
+
+=== SAMPLE WORD DOCUMENT FORMAT ===
+
+Question: What is Java?
+A. Programming Language
+B. Database
+C. Browser
+D. Operating System
+Answer: A
+Marks: 2
+
+Question: Which keyword is used to create a class in Java?
+A. function
+B. class
+C. define
+D. struct
+Answer: B
+Marks: 2
+
+Question: What does JVM stand for?
+A. Java Virtual Memory
+B. Java Variable Machine
+C. Java Virtual Machine
+D. Java Verified Module
+Answer: C
+Marks: 2
+
+Question: Which of the following is not a primitive data type in Java?
+A. int
+B. float
+C. String
+D. boolean
+Answer: C
+Marks: 2
+
+Question: What is the default value of an int variable in Java?
+A. null
+B. 1
+C. undefined
+D. 0
+Answer: D
+Marks: 2
+
+=== RULES ===
+1. Each question must start with "Question:"
+2. Options must be labeled A. B. C. D. (with a dot after the letter)
+3. Answer must be "Answer: X" where X is A, B, C, or D
+4. Marks must be "Marks: N" where N is a number
+5. Leave a blank line between questions (optional but recommended)
+6. Save the file as .docx format
