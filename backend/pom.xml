@@ -41,6 +41,13 @@
             <scope>runtime</scope>
         </dependency>
 
+        <!-- PostgreSQL Driver (for Render deployment) -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         <!-- Apache POI for Word document (.docx) parsing -->
         <dependency>
             <groupId>org.apache.poi</groupId>
