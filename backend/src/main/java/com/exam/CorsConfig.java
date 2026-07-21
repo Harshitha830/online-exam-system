@@ -15,7 +15,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/api/**")
-                        .allowedOriginPatterns("http://localhost:3000", "https://*.netlify.app")
+                        .allowedOriginPatterns("http://localhost:3000", "https://*.netlify.app", "https://online-exam-system-2-2xfm.onrender.com")
                         .allowedMethods("GET", "POST", "PUT", "DELETE")
                         .allowedHeaders("*");
             }
